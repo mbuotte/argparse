@@ -57,5 +57,6 @@ def main():
         snippet = get(**arguments)
         print("Retrieved snippet: {!r}".format(snippet))    
     
+    
 if __name__ == "__main__":
     main()
